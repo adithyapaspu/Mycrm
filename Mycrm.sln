@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myfirstplugin", "Myfirstplugin\Myfirstplugin.csproj", "{CBA785AE-D176-4293-B916-FB92A0D20E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCustomwWorkflows", "MyCustomwWorkflows\MyCustomwWorkflows.csproj", "{4DB0A879-D7B5-4D76-8E8E-F1F4020A733A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA785AE-D176-4293-B916-FB92A0D20E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA785AE-D176-4293-B916-FB92A0D20E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA785AE-D176-4293-B916-FB92A0D20E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA785AE-D176-4293-B916-FB92A0D20E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB0A879-D7B5-4D76-8E8E-F1F4020A733A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB0A879-D7B5-4D76-8E8E-F1F4020A733A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB0A879-D7B5-4D76-8E8E-F1F4020A733A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB0A879-D7B5-4D76-8E8E-F1F4020A733A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF384848-B22A-4628-A766-15C65D14A585}
+	EndGlobalSection
+EndGlobal
